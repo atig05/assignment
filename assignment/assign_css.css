@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+     font-family: "Comic Sans MS", cursive, sans-serif;
+    /*color: #abcfff;s-serif;*/
+    background-color: #0000ff;
+}
+#df{
+text-align: center;
+color:#000000;
+}
+#nav-list {
+text-align: center;
+    background-color: #e4af34;
+	margin-bottom: 40px #c0c0c0;
+}
+
+#nav-list a {
+    /*text-align: center;*/
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+
+#food{
+width=92%;
+margin-bottom: 30px;
+}
+#food{
+	background-color:#ff000f;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 1em;
+	width=92%;
+margin-bottom: 30px;
+}
+#food h1{
+font-size:25px;
+}
+
+
+#CHICKEN,#FISH,#mutt{
+font-family: 'italics';
+margin: 12px;
+color:#000000;
+background-color:#c0c0c0;
+margin-bottom:50px;
+text-align: center;
+}
